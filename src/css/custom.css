@@ -62,7 +62,4 @@ section.com-section.guides-sec p {
   width: 80%;
   margin: 0 auto 60px;
 }
-
-.navbar__link--active, .navbar__link:hover, a:hover , a{
-  color: #0000FF !important;
-}
+ 
