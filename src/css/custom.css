@@ -64,5 +64,5 @@ section.com-section.guides-sec p {
 }
 
 .navbar__link--active, .navbar__link:hover, a:hover , a{
-  color: #0000FF;
+  color: #0000FF !important;
 }
